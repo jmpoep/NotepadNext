@@ -499,114 +499,114 @@
 <context>
     <name>FindReplaceDialog</name>
     <message>
-        <location filename="../src/NotepadNext/dialogs/FindReplaceDialog.ui" line="14"/>
-        <location filename="../src/NotepadNext/dialogs/FindReplaceDialog.ui" line="244"/>
+        <location filename="../src/NotepadNext/dialogs/FindReplaceDialog.ui" line="20"/>
+        <location filename="../src/NotepadNext/dialogs/FindReplaceDialog.ui" line="247"/>
         <location filename="../src/NotepadNext/dialogs/FindReplaceDialog.cpp" line="59"/>
         <source>Find</source>
         <translation>查詢</translation>
     </message>
     <message>
-        <location filename="../src/NotepadNext/dialogs/FindReplaceDialog.ui" line="66"/>
+        <location filename="../src/NotepadNext/dialogs/FindReplaceDialog.ui" line="69"/>
         <source>Search Mode</source>
         <translation>搜尋模式</translation>
     </message>
     <message>
-        <location filename="../src/NotepadNext/dialogs/FindReplaceDialog.ui" line="87"/>
+        <location filename="../src/NotepadNext/dialogs/FindReplaceDialog.ui" line="90"/>
         <source>&amp;Normal</source>
         <translation>正常模式(&amp;N)</translation>
     </message>
     <message>
-        <location filename="../src/NotepadNext/dialogs/FindReplaceDialog.ui" line="103"/>
+        <location filename="../src/NotepadNext/dialogs/FindReplaceDialog.ui" line="106"/>
         <source>E&amp;xtended (\n, \r, \t, \0, \x...)</source>
         <translation>擴充套件模式(&amp;E) (\n, \r, \t, \0, \x...)</translation>
     </message>
     <message>
-        <location filename="../src/NotepadNext/dialogs/FindReplaceDialog.ui" line="121"/>
+        <location filename="../src/NotepadNext/dialogs/FindReplaceDialog.ui" line="124"/>
         <source>Re&amp;gular expression</source>
         <translation>正則表達式 (&amp;g)</translation>
     </message>
     <message>
-        <location filename="../src/NotepadNext/dialogs/FindReplaceDialog.ui" line="137"/>
+        <location filename="../src/NotepadNext/dialogs/FindReplaceDialog.ui" line="140"/>
         <source>&amp;. matches newline</source>
         <translation>&amp;. 符合換行符號</translation>
     </message>
     <message>
-        <location filename="../src/NotepadNext/dialogs/FindReplaceDialog.ui" line="176"/>
+        <location filename="../src/NotepadNext/dialogs/FindReplaceDialog.ui" line="179"/>
         <source>Transparenc&amp;y</source>
         <translation>透明度(&amp;y)</translation>
     </message>
     <message>
-        <location filename="../src/NotepadNext/dialogs/FindReplaceDialog.ui" line="197"/>
+        <location filename="../src/NotepadNext/dialogs/FindReplaceDialog.ui" line="200"/>
         <source>On losing focus</source>
         <translation>失去焦點時</translation>
     </message>
     <message>
-        <location filename="../src/NotepadNext/dialogs/FindReplaceDialog.ui" line="207"/>
+        <location filename="../src/NotepadNext/dialogs/FindReplaceDialog.ui" line="210"/>
         <source>Always</source>
         <translation>總是</translation>
     </message>
     <message>
-        <location filename="../src/NotepadNext/dialogs/FindReplaceDialog.ui" line="257"/>
+        <location filename="../src/NotepadNext/dialogs/FindReplaceDialog.ui" line="260"/>
         <source>Coun&amp;t</source>
         <translation>計數(&amp;t)</translation>
     </message>
     <message>
-        <location filename="../src/NotepadNext/dialogs/FindReplaceDialog.ui" line="267"/>
+        <location filename="../src/NotepadNext/dialogs/FindReplaceDialog.ui" line="270"/>
         <source>&amp;Replace</source>
         <translation>取代(&amp;R)</translation>
     </message>
     <message>
-        <location filename="../src/NotepadNext/dialogs/FindReplaceDialog.ui" line="274"/>
+        <location filename="../src/NotepadNext/dialogs/FindReplaceDialog.ui" line="277"/>
         <source>Replace &amp;All</source>
         <translation>全部取代(&amp;A)</translation>
     </message>
     <message>
-        <location filename="../src/NotepadNext/dialogs/FindReplaceDialog.ui" line="281"/>
+        <location filename="../src/NotepadNext/dialogs/FindReplaceDialog.ui" line="284"/>
         <source>Replace All in &amp;Opened Documents</source>
         <translation>取代所有開啟檔案(&amp;O)</translation>
     </message>
     <message>
-        <location filename="../src/NotepadNext/dialogs/FindReplaceDialog.ui" line="288"/>
+        <location filename="../src/NotepadNext/dialogs/FindReplaceDialog.ui" line="291"/>
         <source>Find All in All &amp;Opened Documents</source>
         <translation>查詢所有開啟檔案(&amp;O)</translation>
     </message>
     <message>
-        <location filename="../src/NotepadNext/dialogs/FindReplaceDialog.ui" line="298"/>
+        <location filename="../src/NotepadNext/dialogs/FindReplaceDialog.ui" line="301"/>
         <source>Find All in Current Document</source>
         <translation>查詢目前文件</translation>
     </message>
     <message>
-        <location filename="../src/NotepadNext/dialogs/FindReplaceDialog.ui" line="308"/>
+        <location filename="../src/NotepadNext/dialogs/FindReplaceDialog.ui" line="311"/>
         <source>Close</source>
         <translation>關閉</translation>
     </message>
     <message>
-        <location filename="../src/NotepadNext/dialogs/FindReplaceDialog.ui" line="364"/>
+        <location filename="../src/NotepadNext/dialogs/FindReplaceDialog.ui" line="367"/>
         <source>&amp;Find:</source>
         <translation>&amp;查詢：</translation>
     </message>
     <message>
-        <location filename="../src/NotepadNext/dialogs/FindReplaceDialog.ui" line="396"/>
+        <location filename="../src/NotepadNext/dialogs/FindReplaceDialog.ui" line="399"/>
         <source>Replace:</source>
         <translation>取代：</translation>
     </message>
     <message>
-        <location filename="../src/NotepadNext/dialogs/FindReplaceDialog.ui" line="442"/>
+        <location filename="../src/NotepadNext/dialogs/FindReplaceDialog.ui" line="445"/>
         <source>Backward direction</source>
         <translation>反向搜尋</translation>
     </message>
     <message>
-        <location filename="../src/NotepadNext/dialogs/FindReplaceDialog.ui" line="449"/>
+        <location filename="../src/NotepadNext/dialogs/FindReplaceDialog.ui" line="452"/>
         <source>Match &amp;whole word only</source>
         <translation>全詞符合(&amp;w)</translation>
     </message>
     <message>
-        <location filename="../src/NotepadNext/dialogs/FindReplaceDialog.ui" line="456"/>
+        <location filename="../src/NotepadNext/dialogs/FindReplaceDialog.ui" line="459"/>
         <source>Match &amp;case</source>
         <translation>大小寫相符(&amp;c)</translation>
     </message>
     <message>
-        <location filename="../src/NotepadNext/dialogs/FindReplaceDialog.ui" line="463"/>
+        <location filename="../src/NotepadNext/dialogs/FindReplaceDialog.ui" line="466"/>
         <source>Wra&amp;p Around</source>
         <translation>迴圈搜尋(&amp;p)</translation>
     </message>
